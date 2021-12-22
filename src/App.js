@@ -12,6 +12,7 @@ class App extends React.Component{
                        <h1>Hola mundo</h1>
                        <p>{this.props.name}</p>
                        <p>lorem500000dc dchbdshcbdcdcvdfbvsdfbvfnfdbvhfbvfhbv</p>
+                       <h2>Juandanielospina</h2>
                    </label>
                </form>
             </div>
